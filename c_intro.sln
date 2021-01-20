@@ -5,21 +5,21 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c_intro", "c_intro\c_intro.csproj", "{7CD50599-5F1E-4667-86DF-AAF36E634593}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "donguler", "donguler\donguler.csproj", "{E10064F6-E7F9-4D75-8067-B0844E340641}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongulerDay2", "donguler\DongulerDay2.csproj", "{E10064F6-E7F9-4D75-8067-B0844E340641}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classintro", "Classintro\Classintro.csproj", "{5AEEC793-B1B8-42F3-A5DA-77F4ED03370C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassintroDay2", "Classintro\ClassintroDay2.csproj", "{5AEEC793-B1B8-42F3-A5DA-77F4ED03370C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "karalamadefteri", "karalamadefteri\karalamadefteri.csproj", "{5173E4F3-927A-4A5A-877B-0E82A282360D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "akaralamadefteri", "karalamadefteri\akaralamadefteri.csproj", "{5173E4F3-927A-4A5A-877B-0E82A282360D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eticaretodev", "eticaretodev\eticaretodev.csproj", "{0245D0DE-18D3-4501-B1C8-1147EA879E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eticaretodevDay2", "eticaretodev\eticaretodevDay2.csproj", "{0245D0DE-18D3-4501-B1C8-1147EA879E38}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodsintro", "methodsintro\methodsintro.csproj", "{FD58C0D4-AF46-402D-BC84-75E24CB2DC68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodsintroDay3", "methodsintro\methodsintroDay3.csproj", "{FD58C0D4-AF46-402D-BC84-75E24CB2DC68}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "matematik", "matematik\matematik.csproj", "{B2C8FD45-EE46-4E4F-90F3-613D80D0D613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "matematikDay3", "matematik\matematikDay3.csproj", "{B2C8FD45-EE46-4E4F-90F3-613D80D0D613}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{6C00565E-418A-489E-B8C9-AF66ADFFB206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTiplerDay3", "DegerVeReferansTipler\DegerVeReferansTiplerDay3.csproj", "{6C00565E-418A-489E-B8C9-AF66ADFFB206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsYoutube", "MethodsYoutube\MethodsYoutube.csproj", "{7037F722-D4B8-453E-8AAE-1D2DADE78177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsYoutubeDay3", "MethodsYoutube\MethodsYoutubeDay3.csproj", "{7037F722-D4B8-453E-8AAE-1D2DADE78177}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
