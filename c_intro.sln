@@ -5,21 +5,27 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c_intro", "c_intro\c_intro.csproj", "{7CD50599-5F1E-4667-86DF-AAF36E634593}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongulerDay2", "donguler\DongulerDay2.csproj", "{E10064F6-E7F9-4D75-8067-B0844E340641}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Donguler", "donguler\Day2Donguler.csproj", "{E10064F6-E7F9-4D75-8067-B0844E340641}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassintroDay2", "Classintro\ClassintroDay2.csproj", "{5AEEC793-B1B8-42F3-A5DA-77F4ED03370C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Classintro", "Classintro\Day2Classintro.csproj", "{5AEEC793-B1B8-42F3-A5DA-77F4ED03370C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "akaralamadefteri", "karalamadefteri\akaralamadefteri.csproj", "{5173E4F3-927A-4A5A-877B-0E82A282360D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eticaretodevDay2", "eticaretodev\eticaretodevDay2.csproj", "{0245D0DE-18D3-4501-B1C8-1147EA879E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2eticaretodev", "eticaretodev\Day2eticaretodev.csproj", "{0245D0DE-18D3-4501-B1C8-1147EA879E38}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodsintroDay3", "methodsintro\methodsintroDay3.csproj", "{FD58C0D4-AF46-402D-BC84-75E24CB2DC68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3methodsintro", "methodsintro\Day3methodsintro.csproj", "{FD58C0D4-AF46-402D-BC84-75E24CB2DC68}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "matematikDay3", "matematik\matematikDay3.csproj", "{B2C8FD45-EE46-4E4F-90F3-613D80D0D613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3matematik", "matematik\Day3matematik.csproj", "{B2C8FD45-EE46-4E4F-90F3-613D80D0D613}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTiplerDay3", "DegerVeReferansTipler\DegerVeReferansTiplerDay3.csproj", "{6C00565E-418A-489E-B8C9-AF66ADFFB206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3DegerVeReferansTipler", "DegerVeReferansTipler\Day3DegerVeReferansTipler.csproj", "{6C00565E-418A-489E-B8C9-AF66ADFFB206}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsYoutubeDay3", "MethodsYoutube\MethodsYoutubeDay3.csproj", "{7037F722-D4B8-453E-8AAE-1D2DADE78177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3MethodsYoutube", "MethodsYoutube\Day3MethodsYoutube.csproj", "{7037F722-D4B8-453E-8AAE-1D2DADE78177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4OOP1", "Day4OOP1\Day4OOP1.csproj", "{D25739BA-28F4-44AF-8A50-7B9C377B32FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4Koleksiyonlar", "Day4Koleksiyonlar\Day4Koleksiyonlar.csproj", "{8D79CF2D-0AF8-4975-A205-AE5D446DB967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4GenericsIntro", "Day4GenericsIntro\Day4GenericsIntro.csproj", "{2B14303A-5D5A-4B1D-B62B-CF3631E7563F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{7037F722-D4B8-453E-8AAE-1D2DADE78177}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7037F722-D4B8-453E-8AAE-1D2DADE78177}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7037F722-D4B8-453E-8AAE-1D2DADE78177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25739BA-28F4-44AF-8A50-7B9C377B32FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25739BA-28F4-44AF-8A50-7B9C377B32FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25739BA-28F4-44AF-8A50-7B9C377B32FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25739BA-28F4-44AF-8A50-7B9C377B32FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D79CF2D-0AF8-4975-A205-AE5D446DB967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D79CF2D-0AF8-4975-A205-AE5D446DB967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D79CF2D-0AF8-4975-A205-AE5D446DB967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D79CF2D-0AF8-4975-A205-AE5D446DB967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B14303A-5D5A-4B1D-B62B-CF3631E7563F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B14303A-5D5A-4B1D-B62B-CF3631E7563F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B14303A-5D5A-4B1D-B62B-CF3631E7563F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B14303A-5D5A-4B1D-B62B-CF3631E7563F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

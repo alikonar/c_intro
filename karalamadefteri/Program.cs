@@ -6,20 +6,28 @@ namespace karalamadefteri
     {
         static void Main(string[] args)
         {
-            string[] liste = new string[] { "1", "2", "3", "4", "5","6" };
+            string[] deneme1 = new string[] { "Ali", "Melek", "Afz", "Barış" };
+            string[] deneme2 = new string[] { "Şan", "Şöhret", "Para" };
 
-            for (int i = 0; i < liste.Length; i=+2)
-            {
-                Console.WriteLine(liste[i]);
-             
+            deneme1[0] = deneme2[1];
+            Console.WriteLine(deneme1[0]);
+            deneme2[2] = deneme1[3];
+            Console.WriteLine(deneme2[2]);
 
-            }
+            int a = 22;
+            int b = 18;
+            int c = 24;
 
+           
+            a = b = c;
             
             
-           
-           
+            Console.WriteLine(a);
+            Console.WriteLine(b);
 
+
+          
+            
 
 
         }
