@@ -46,6 +46,7 @@ namespace Day4GenericsYoutube
                 for (int a = 0; a < tempArray.Length; a++)
                 {
                     Array[a] = tempArray[a];
+                    
 
                 }
                 Array[Array.Length - 1] = item;
@@ -53,9 +54,10 @@ namespace Day4GenericsYoutube
 
 
 
-            public int Count
+            public int CountRead
             {
                 get { return Array.Length; }
+                
                
             }
 
